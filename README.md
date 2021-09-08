@@ -9,6 +9,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 01 | [Data Preprocess Template](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.ipynb) | Data preprocess template | |
 | 02 | [Regression](#regression) | Simple linear regression, multiple, poly, ... | |
 | ## | [Model Selection](#model-selection) | Model selection: regression, classifcation | |
+| ## | [Case Study](#case-study) | Case study | |
 
 ## Details
 ### Regression
@@ -26,6 +27,10 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 01 | [Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/tree/main/Part%20Extra%20-%20Model%20Selection/Regression) |  |
 | 02 | [Classification]() |  |
 
+### Case study
+| Number     | Notebooks | Extras |
+| ----------- | ----------- | ----------- |
+| 01 | [Logistic Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%20Extra%20-%20CaseStudy/Breast%20Cancer%20Logistic%20Regression/logistic_regression.ipynb) | Breast Cancer classifier  |
 ## Extras
 ### Datasets:
 1. [ICU dataset](https://archive.ics.uci.edu/ml/index.php)
