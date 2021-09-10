@@ -8,6 +8,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | ----------- | ----------- | ----------- | ----------- |
 | 01 | [Data Preprocess Template](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.ipynb) | Data preprocess template | |
 | 02 | [Regression](#regression) | Simple linear regression, multiple, poly, ... | |
+| 03 | [Classification](#classification) | Logistic regression, knn, svm, ... | |
 | ## | [Model Selection](#model-selection) | Model selection: regression, classifcation | |
 | ## | [Case Study](#case-study) | Case study | |
 
@@ -21,6 +22,14 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 04 | [Support Vector Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%207%20-%20Support%20Vector%20Regression%20(SVR)/support_vector_regression.ipynb) | [`kernels`](https://data-flair.training/blogs/svm-kernel-functions/) |
 | 05 | [Decision Tree Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%208%20-%20Decision%20Tree%20Regression/decision_tree_regression.ipynb) |  |
 | 06 | [Random Forest Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/random_forest_regression.ipynb) |  |
+
+### Classfication
+| Number     | Notebook | Extras |
+| ----------- | ----------- | ----------- |
+| 01 | [Logistic Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2014%20-%20Logistic%20Regression/logistic_regression.ipynb) | [StatQuest: Logistic Regression](https://youtu.be/yIYKR4sgzI8) | 
+| 02 | [K-Nearest-Neighbours](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2015%20-%20K-Nearest%20Neighbors%20(K-NN)/k_nearest_neighbors.ipynb) | [StatQuest: KNN](https://youtu.be/HVXime0nQeI) |
+| 03 | [Support Vector Machine](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/support_vector_machine.ipynb) |  [StatQuest: SVM](https://youtu.be/efR1C6CvhmE) |
+
 ### Model selection
 | Number     | Notebooks | Extras |
 | ----------- | ----------- | ----------- |
@@ -40,4 +49,4 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 
 ## Acknowledge:
 1. Thanks [Kirill Eremenko](https://twitter.com/kirill_eremenko), [Hadelin de Ponteves](https://twitter.com/hadelin2p) for creating such an awesome about machine learning online.
-2. Thanks
+2. Thanks [Josh Starmer aka StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) for your brilliant video about machine learning, help me alot of understanding the math behind the ML algorithm.
