@@ -23,7 +23,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 05 | [Decision Tree Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%208%20-%20Decision%20Tree%20Regression/decision_tree_regression.ipynb) |  |
 | 06 | [Random Forest Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/random_forest_regression.ipynb) |  |
 
-### Classfication
+### Classification
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
 | 01 | [Logistic Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2014%20-%20Logistic%20Regression/logistic_regression.ipynb) | [StatQuest: Logistic Regression](https://youtu.be/yIYKR4sgzI8) | 
