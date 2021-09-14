@@ -38,7 +38,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | Number     | Notebooks | Extras |
 | ----------- | ----------- | ----------- |
 | 01 | [Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/tree/main/Part%20Extra%20-%20Model%20Selection/Regression) |  |
-| 02 | [Classification]() |  |
+| 02 | [Classification](https://github.com/BaoLocPham/MachineLearningFromScratch/tree/main/Part%20Extra%20-%20Model%20Selection/Classification) | [The Accuracy paradox](https://towardsdatascience.com/accuracy-paradox-897a69e2dd9b), [AUC-ROC and CAP Curves](https://medium.com/geekculture/classification-model-performance-evaluation-using-auc-roc-and-cap-curves-66a1b3fc0480) |
 
 ### Case study
 | Number     | Notebooks | Extras |
