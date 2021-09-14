@@ -29,6 +29,10 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 01 | [Logistic Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2014%20-%20Logistic%20Regression/logistic_regression.ipynb) | [StatQuest: Logistic Regression](https://youtu.be/yIYKR4sgzI8) | 
 | 02 | [K-Nearest-Neighbours](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2015%20-%20K-Nearest%20Neighbors%20(K-NN)/k_nearest_neighbors.ipynb) | [StatQuest: KNN](https://youtu.be/HVXime0nQeI) |
 | 03 | [Support Vector Machine](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/support_vector_machine.ipynb) |  [StatQuest: SVM](https://youtu.be/efR1C6CvhmE) |
+| 04 | [Kernel SVM](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2017%20-%20Kernel%20SVM/kernel_svm.ipynb) |  [StatQuest: Polinomial Kernel](https://youtu.be/Toet3EiSFcM) [StatQuest: RBF kernel](https://youtu.be/Qc5IyLW_hns) |
+| 05 | [Naive Bayes](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2018%20-%20Naive%20Bayes/naive_bayes.ipynb) |  [StatQuest: Naive Bayes](https://youtu.be/O2L2Uv9pdDA) [StatQuest: Gaussian Naive Bayes](https://youtu.be/H3EjCKtlVog) |
+| 06 | [Decision Tree](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/decision_tree_classification.ipynb) |  [StatQuest: Decision Tree](https://youtu.be/7VeUPuFGJHk) |
+| 04 | [Random Forest](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/random_forest_classification.ipynb) |  [StatQuest: Random Forest](https://youtu.be/J4Wdy0Wc_xQ) |
 
 ### Model selection
 | Number     | Notebooks | Extras |
