@@ -9,6 +9,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 01 | [Data Preprocess Template](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.ipynb) | Data preprocess template | |
 | 02 | [Regression](#regression) | Simple linear regression, multiple, poly, ... | |
 | 03 | [Classification](#classification) | Logistic regression, knn, svm, ... | |
+| 04 | [Clustering](#clustering) | KMeans clustering, Hierarchical clustering | |
 | ## | [Model Selection](#model-selection) | Model selection: regression, classifcation | |
 | ## | [Case Study](#case-study) | Case study | |
 
@@ -33,6 +34,11 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 05 | [Naive Bayes](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2018%20-%20Naive%20Bayes/naive_bayes.ipynb) |  [StatQuest: Naive Bayes](https://youtu.be/O2L2Uv9pdDA) [StatQuest: Gaussian Naive Bayes](https://youtu.be/H3EjCKtlVog) |
 | 06 | [Decision Tree](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/decision_tree_classification.ipynb) |  [StatQuest: Decision Tree](https://youtu.be/7VeUPuFGJHk) |
 | 04 | [Random Forest](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/random_forest_classification.ipynb) |  [StatQuest: Random Forest](https://youtu.be/J4Wdy0Wc_xQ) |
+
+### Clustering
+| Number     | Notebook | Extras |
+| ----------- | ----------- | ----------- |
+| 01 | [KMean](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/k_means_clustering.ipynb) | [StatQuest: KMeans Clustering](https://youtu.be/4b5d3muPQmA) | 
 
 ### Model selection
 | Number     | Notebooks | Extras |
