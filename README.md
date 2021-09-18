@@ -38,7 +38,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 ### Clustering
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
-| 01 | [KMean](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/k_means_clustering.ipynb) | [StatQuest: KMeans Clustering](https://youtu.be/4b5d3muPQmA) | 
+| 01 | [KMean](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/k_means_clustering.ipynb) | [StatQuest: KMeans Clustering](https://youtu.be/4b5d3muPQmA) [WCSS and Elbow method](https://analyticsindiamag.com/beginners-guide-to-k-means-clustering/) | 
 
 ### Model selection
 | Number     | Notebooks | Extras |
