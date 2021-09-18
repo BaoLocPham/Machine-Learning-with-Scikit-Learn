@@ -38,7 +38,8 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 ### Clustering
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
-| 01 | [KMean](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/k_means_clustering.ipynb) | [StatQuest: KMeans Clustering](https://youtu.be/4b5d3muPQmA) [WCSS and Elbow method](https://analyticsindiamag.com/beginners-guide-to-k-means-clustering/) | 
+| 01 | [KMean](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/k_means_clustering.ipynb) | [StatQuest: KMeans Clustering](https://youtu.be/4b5d3muPQmA) , [WCSS and Elbow method](https://analyticsindiamag.com/beginners-guide-to-k-means-clustering/) | 
+| 02 | [Hierarchical](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/hierarchical_clustering.ipynb) | [StatQuest: Hierarchical Clustering](https://youtu.be/7xHsRkOdVwo) , [Dendrogram method](https://towardsdatascience.com/agglomerative-clustering-and-dendrograms-explained-29fc12b85f23) | 
 
 ### Model selection
 | Number     | Notebooks | Extras |
@@ -53,6 +54,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 ## Extras
 ### Datasets:
 1. [ICU dataset](https://archive.ics.uci.edu/ml/index.php)
+2. [Repo datasets](https://github.com/BaoLocPham/MachineLearningFromScratch/tree/main/Data)
 ### Blogs:
 1. ...
 
