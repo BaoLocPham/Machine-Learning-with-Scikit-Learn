@@ -6,6 +6,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 ## Table of contents
 | Number     | Notebook | Description | Extras |
 | ----------- | ----------- | ----------- | ----------- |
+| 00 | [Basic ML Intuition](#basic-intuition) | What is ML, Bias and Variances? | |
 | 01 | [Data Preprocess Template](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%201%20-%20Data%20Preprocessing/data_preprocessing_template.ipynb) | Data preprocess template | |
 | 02 | [Regression](#regression) | Simple linear regression, multiple, poly, ... | |
 | 03 | [Classification](#classification) | Logistic regression, knn, svm, ... | |
@@ -14,15 +15,17 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | ## | [Case Study](#case-study) | Case study | |
 
 ## Details
+### Basic Intuition
+
 ### Regression
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
 | 01 | [Simple Linear Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/simple_linear_regression.ipynb) |  | 
-| 02 | [Multiple Linear Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%205%20-%20Multiple%20Linear%20Regression/multiple_linear_regression.ipynb) |  |
-| 03 | [Polynomial Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%206%20-%20Polynomial%20Regression/polynomial_regression.ipynb) |  |
-| 04 | [Support Vector Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%207%20-%20Support%20Vector%20Regression%20(SVR)/support_vector_regression.ipynb) | [`kernels`](https://data-flair.training/blogs/svm-kernel-functions/) |
-| 05 | [Decision Tree Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%208%20-%20Decision%20Tree%20Regression/decision_tree_regression.ipynb) |  |
-| 06 | [Random Forest Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/random_forest_regression.ipynb) |  |
+| 02 | [Multiple Linear Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%205%20-%20Multiple%20Linear%20Regression/multiple_linear_regression.ipynb) | [When to multiple linear regression](https://towardsdatascience.com/understanding-when-simple-and-multiple-linear-regression-give-different-results-7cf6c787766c) |
+| 03 | [Polynomial Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%206%20-%20Polynomial%20Regression/polynomial_regression.ipynb) | [Polynomial Regression](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491) |
+| 04 | [Support Vector Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%207%20-%20Support%20Vector%20Regression%20(SVR)/support_vector_regression.ipynb) | [Introduction to SVR](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2), [`kernels`](https://data-flair.training/blogs/svm-kernel-functions/) |
+| 05 | [Decision Tree Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%208%20-%20Decision%20Tree%20Regression/decision_tree_regression.ipynb) | [Decision Tree Regression](https://towardsdatascience.com/machine-learning-basics-decision-tree-regression-1d73ea003fda), [Decision Tree ML](https://machinelearningcoban.com/tabml_book/ch_model/decision_tree.html) |
+| 06 | [Random Forest Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/random_forest_regression.ipynb) | [Random Forest](https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a), [Random Forest ML](https://machinelearningcoban.com/tabml_book/ch_model/random_forest.html)|
 
 ### Classification
 | Number     | Notebook | Extras |
