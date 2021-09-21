@@ -27,6 +27,15 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 05 | [Decision Tree Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%208%20-%20Decision%20Tree%20Regression/decision_tree_regression.ipynb) | [Decision Tree Regression](https://towardsdatascience.com/machine-learning-basics-decision-tree-regression-1d73ea003fda), [Decision Tree ML](https://machinelearningcoban.com/tabml_book/ch_model/decision_tree.html) |
 | 06 | [Random Forest Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%202%20-%20Regression/Section%209%20-%20Random%20Forest%20Regression/random_forest_regression.ipynb) | [Random Forest](https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a), [Random Forest ML](https://machinelearningcoban.com/tabml_book/ch_model/random_forest.html)|
 
+#### Regression: Pros and cons
+| Regression Model | Pros | Cons |
+| ----------- | ----------- | ----------- |
+| Linear Regression | Works on any size of the dataset, gives informations about relevance of features. | [The Linear Regression Assumptions](https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/assumptions-of-linear-regression/). |
+| Polynomial Regression | Works on any size of dataset, works very well on non linear problems. | Need to choose the right polynomial degree for a good bias, variance tradeoff. |
+| SVR | Easily adaptable, works very well on non linear problems, not bias by outlier. | Compulsory to apply feature scaling, not well documentated, more difficult to understand. |
+| Decision Tree Regression | Interpretablity, no need for feature scaling, works on both linear, nonlinear problems. | Poor Results on too small datasets, overfitting can easily occur. |
+| Random Forest Regression | Powerful and accurate, good performance on may problems, including nonlinear. | Poor Results on too small datasets, overfitting can easily occur. |
+***
 ### Classification
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
@@ -35,15 +44,32 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 03 | [Support Vector Machine](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2016%20-%20Support%20Vector%20Machine%20(SVM)/support_vector_machine.ipynb) |  [StatQuest: SVM](https://youtu.be/efR1C6CvhmE) |
 | 04 | [Kernel SVM](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2017%20-%20Kernel%20SVM/kernel_svm.ipynb) |  [StatQuest: Polinomial Kernel](https://youtu.be/Toet3EiSFcM) [StatQuest: RBF kernel](https://youtu.be/Qc5IyLW_hns) |
 | 05 | [Naive Bayes](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2018%20-%20Naive%20Bayes/naive_bayes.ipynb) |  [StatQuest: Naive Bayes](https://youtu.be/O2L2Uv9pdDA) [StatQuest: Gaussian Naive Bayes](https://youtu.be/H3EjCKtlVog) |
-| 06 | [Decision Tree](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/decision_tree_classification.ipynb) |  [StatQuest: Decision Tree](https://youtu.be/7VeUPuFGJHk) |
-| 04 | [Random Forest](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/random_forest_classification.ipynb) |  [StatQuest: Random Forest](https://youtu.be/J4Wdy0Wc_xQ) |
+| 06 | [Decision Tree](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2019%20-%20Decision%20Tree%20Classification/decision_tree_classification.ipynb) |  [StatQuest: Decision Tree Regression](https://youtu.be/7VeUPuFGJHk) |
+| 04 | [Random Forest Regression](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%203%20-%20Classification/Section%2020%20-%20Random%20Forest%20Classification/random_forest_classification.ipynb) |  [StatQuest: Random Forest](https://youtu.be/J4Wdy0Wc_xQ) |
 
+#### Classifications: Pros and Cons
+| Classification Model | Pros | Cons |
+| ----------- | ----------- | ----------- |
+| Logistic Regression | Probabilistics approach, gives informations about statiscal significance of features. | [The Logistic Regression Assumptions](https://www.statology.org/assumptions-of-logistic-regression/). |
+| K-NN | Simple to understand, fast and efficient. | Need to choose the number of neighbours K. |
+| SVM | Performant, not biased by outliers, not sensitive to overfitting. | Not appropriate for nonlinear problems, not the best choice for large number of features. |
+| Kernel SVM | High performance on nonlinear problems, not biased by outliers, not sensitive to overfitting. | Not the best choice for large number of features, more complex. |
+| Naive Bayes | Efficient not biased by outliers, works on nonlinear problems, probabilitstic approach. | Based on the assumption that features have same statistical relevance. |
+| Decision Tree Classification | Interpretability, no need for feature scaling, works on both linear, nonlinear problems. | Poor results on too small datasets, overfitting can easily occur. |
+| Random Forest Classification | Powerful and accurate, good performance on many problems, including nonlinear. | No interpretability, overfitting can easily occur, need to choose the number of trees. |
+***
 ### Clustering
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
 | 01 | [KMean](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/k_means_clustering.ipynb) | [StatQuest: KMeans Clustering](https://youtu.be/4b5d3muPQmA) , [WCSS and Elbow method](https://analyticsindiamag.com/beginners-guide-to-k-means-clustering/) | 
 | 02 | [Hierarchical](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/hierarchical_clustering.ipynb) | [StatQuest: Hierarchical Clustering](https://youtu.be/7xHsRkOdVwo) , [Dendrogram method](https://towardsdatascience.com/agglomerative-clustering-and-dendrograms-explained-29fc12b85f23) | 
 
+#### Clustering: Pros and Cons
+| Regression Model | Pros | Cons |
+| ----------- | ----------- | ----------- |
+| K-Means | Simple to understand, easily adaptable, works well on small or large datasets, fast, efficient and performant. | Need to choose the number of cluster. |
+| Hierarchical Clustering | The optimal number of clusters can be obtained by the model itself, pratical visualization with the [**dendrogram**](https://en.wikipedia.org/wiki/Dendrogram). | Not appropriate for large datasets. |
+***
 ### Model selection
 | Number     | Notebooks | Extras |
 | ----------- | ----------- | ----------- |
@@ -59,9 +85,10 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 1. [ICU dataset](https://archive.ics.uci.edu/ml/index.php)
 2. [Repo datasets](https://github.com/BaoLocPham/MachineLearningFromScratch/tree/main/Data)
 ### Blogs:
-1. ...
-
+* [machinelearningcoban](https://machinelearningcoban.com)
+* 
 
 ## Acknowledge:
-1. Thanks [Kirill Eremenko](https://twitter.com/kirill_eremenko), [Hadelin de Ponteves](https://twitter.com/hadelin2p) for creating such an awesome about machine learning online.
-2. Thanks [Josh Starmer aka StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) for your brilliant video about machine learning, help me alot of understanding the math behind the ML algorithm.
+* Thanks [Kirill Eremenko](https://twitter.com/kirill_eremenko), [Hadelin de Ponteves](https://twitter.com/hadelin2p) for creating such an awesome about machine learning online.
+* Thanks [Josh Starmer aka StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) for your brilliant video about machine learning, help me alot of understanding the math behind the ML algorithm.
+* Thanks mr [Vũ Hữu Tiệp](https://machinelearningcoban.com/about/) for your brilliant blogs about machine learning, helps me a lot from the day i didn't know what is machine learning is.
