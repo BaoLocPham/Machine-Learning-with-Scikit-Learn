@@ -11,6 +11,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 02 | [Regression](#regression) | Simple linear regression, multiple, poly, ... | |
 | 03 | [Classification](#classification) | Logistic regression, knn, svm, ... | |
 | 04 | [Clustering](#clustering) | KMeans clustering, Hierarchical clustering | |
+| 05 | [Association Rule Learning](#association-rule-learning) | Apriori, Eclat | |
 | ## | [Model Selection](#model-selection) | Model selection: regression, classifcation | |
 | ## | [Case Study](#case-study) | Case study | |
 
@@ -70,6 +71,11 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | K-Means | Simple to understand, easily adaptable, works well on small or large datasets, fast, efficient and performant. | Need to choose the number of cluster. |
 | Hierarchical Clustering | The optimal number of clusters can be obtained by the model itself, pratical visualization with the [**dendrogram**](https://en.wikipedia.org/wiki/Dendrogram). | Not appropriate for large datasets. |
 ***
+### Association Rule Learning
+| Number     | Notebook | Extras |
+| ----------- | ----------- | ----------- |
+| 01 | [Apriori](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/apriori.ipynb) | |
+***
 ### Model selection
 | Number     | Notebooks | Extras |
 | ----------- | ----------- | ----------- |
@@ -86,9 +92,10 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 2. [Repo datasets](https://github.com/BaoLocPham/MachineLearningFromScratch/tree/main/Data)
 ### Blogs:
 * [machinelearningcoban](https://machinelearningcoban.com)
-* 
+* [Deep Ai Khanh blog](https://phamdinhkhanh.github.io/deepai-book/intro.html)
 
 ## Acknowledge:
 * Thanks [Kirill Eremenko](https://twitter.com/kirill_eremenko), [Hadelin de Ponteves](https://twitter.com/hadelin2p) for creating such an awesome about machine learning online.
 * Thanks [Josh Starmer aka StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) for your brilliant video about machine learning, help me alot of understanding the math behind the ML algorithm.
 * Thanks mr [Vũ Hữu Tiệp](https://machinelearningcoban.com/about/) for your brilliant blogs about machine learning, helps me a lot from the day i didn't know what is machine learning is.
+* Thanks mr [Phạm Đình Khánh](https://phamdinhkhanh.github.io/deepai-book/intro.html) for your blogs about machine learning and deep learning.
