@@ -12,6 +12,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 03 | [Classification](#classification) | Logistic regression, knn, svm, ... | |
 | 04 | [Clustering](#clustering) | KMeans clustering, Hierarchical clustering | |
 | 05 | [Association Rule Learning](#association-rule-learning) | Apriori, Eclat | |
+| 06 | [Reinforcement Learning](#reinforcement-learning) | UCB, Thomson Sampling | |
 | ## | [Model Selection](#model-selection) | Model selection: regression, classifcation | |
 | ## | [Case Study](#case-study) | Case study | |
 
@@ -74,7 +75,13 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 ### Association Rule Learning
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
-| 01 | [Apriori](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/apriori.ipynb) | |
+| 01 | [Apriori](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/apriori.ipynb) | [Apriori Algorithm](https://towardsdatascience.com/apriori-algorithm-for-association-rule-learning-how-to-find-clear-links-between-transactions-bf7ebc22cf0a?gi=7825eb554041) |
+| 02 | [Eclat](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%205%20-%20Association%20Rule%20Learning/Section%2029%20-%20Eclat/eclat.ipynb) | |
+***
+### Reinforcement Learning
+| Number     | Notebook | Extras |
+| ----------- | ----------- | ----------- |
+| 01 | [Upper Confidence Bound](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/upper_confidence_bound.ipynb) | [Confidence Bounds](https://www.weibull.com/hotwire/issue34/relbasics34.htm), [UCB and Multi-armed bandit problem](https://www.aionlinecourse.com/tutorial/machine-learning/upper-confidence-bound-%28ucb%29)  | 
 ***
 ### Model selection
 | Number     | Notebooks | Extras |
