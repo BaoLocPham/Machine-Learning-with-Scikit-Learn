@@ -18,7 +18,12 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 
 ## Details
 ### Basic Intuition
+#### Math
+* [StatQuest: The Normal Distribution clearly explained](https://youtu.be/rzFX5NWojp0)
 
+#### Machine learning Fundamentals
+* [Bias and Variance](https://medium.datadriveninvestor.com/bias-and-variance-in-machine-learning-51fdd38d1f86)
+***
 ### Regression
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
@@ -82,6 +87,9 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
 | 01 | [Upper Confidence Bound](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/upper_confidence_bound.ipynb) | [Confidence Bounds](https://www.weibull.com/hotwire/issue34/relbasics34.htm), [UCB and Multi-armed bandit problem](https://www.aionlinecourse.com/tutorial/machine-learning/upper-confidence-bound-%28ucb%29)  | 
+#### The Multi-Armed Bandit Problem
+* [ritvikmath: The Multi-Armed Bandit Stategies](https://youtu.be/e3L4VocZnnQ)
+* [ritvikmath: The strategies and UCB approach](https://youtu.be/FgmMK6RPU1c)
 ***
 ### Model selection
 | Number     | Notebooks | Extras |
