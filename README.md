@@ -24,6 +24,10 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 #### Machine learning Fundamentals
 * [Bias and Variance](https://medium.datadriveninvestor.com/bias-and-variance-in-machine-learning-51fdd38d1f86)
 * [Confusion Matrix, Accuracy, Precision, Recall, F1-score](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
+* [L1 and L2 Regularization](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)
+* [StatsQuest L1 Regularization](https://youtu.be/Q81RR3yKn30)
+* [StatsQuest L2 Regularization](https://youtu.be/NGf0voTMlcs)
+* [Regularization and Cross Validation](https://medium.com/analytics-vidhya/regularization-and-cross-validation-how-to-choose-the-penalty-value-lambda-1217fa4351e5)
 ***
 ### Regression
 | Number     | Notebook | Extras |
