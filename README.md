@@ -23,6 +23,11 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 
 #### Machine learning Fundamentals
 * [Bias and Variance](https://medium.datadriveninvestor.com/bias-and-variance-in-machine-learning-51fdd38d1f86)
+* [Confusion Matrix, Accuracy, Precision, Recall, F1-score](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
+* [L1 and L2 Regularization](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)
+* [StatsQuest L1 Regularization](https://youtu.be/Q81RR3yKn30)
+* [StatsQuest L2 Regularization](https://youtu.be/NGf0voTMlcs)
+* [Regularization and Cross Validation](https://medium.com/analytics-vidhya/regularization-and-cross-validation-how-to-choose-the-penalty-value-lambda-1217fa4351e5)
 ***
 ### Regression
 | Number     | Notebook | Extras |
@@ -87,9 +92,11 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
 | 01 | [Upper Confidence Bound](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%206%20-%20Reinforcement%20Learning/Section%2032%20-%20Upper%20Confidence%20Bound%20(UCB)/upper_confidence_bound.ipynb) | [Confidence Bounds](https://www.weibull.com/hotwire/issue34/relbasics34.htm), [UCB and Multi-armed bandit problem](https://www.aionlinecourse.com/tutorial/machine-learning/upper-confidence-bound-%28ucb%29)  | 
+| 02 | [Thomson Sampling](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%206%20-%20Reinforcement%20Learning/Section%2033%20-%20Thompson%20Sampling/thompson_sampling.ipynb) | [Thomson Sampling](https://towardsdatascience.com/thompson-sampling-fc28817eacb8) | 
 #### The Multi-Armed Bandit Problem
 * [ritvikmath: The Multi-Armed Bandit Stategies](https://youtu.be/e3L4VocZnnQ)
 * [ritvikmath: The strategies and UCB approach](https://youtu.be/FgmMK6RPU1c)
+* [ritvikmath: The Thomson sampling algorithm](https://youtu.be/Zgwfw3bzSmQ)
 ***
 ### Model selection
 | Number     | Notebooks | Extras |
