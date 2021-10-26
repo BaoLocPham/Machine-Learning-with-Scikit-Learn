@@ -13,6 +13,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 04 | [Clustering](#clustering) | KMeans clustering, Hierarchical clustering | |
 | 05 | [Association Rule Learning](#association-rule-learning) | Apriori, Eclat | |
 | 06 | [Reinforcement Learning](#reinforcement-learning) | UCB, Thomson Sampling | |
+| 07 | [NLP](#nlp) | Introduction to nlp | |
 | ## | [Model Selection](#model-selection) | Model selection: regression, classifcation | |
 | ## | [Case Study](#case-study) | Case study | |
 
@@ -97,6 +98,11 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 * [ritvikmath: The Multi-Armed Bandit Stategies](https://youtu.be/e3L4VocZnnQ)
 * [ritvikmath: The strategies and UCB approach](https://youtu.be/FgmMK6RPU1c)
 * [ritvikmath: The Thomson sampling algorithm](https://youtu.be/Zgwfw3bzSmQ)
+***
+### NLP
+| Number     | Notebook | Extras |
+| ----------- | ----------- | ----------- |
+| 01 | [Introduction to nlp](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%207%20-%20NLP/Section%2036%20-%20Introduction%20to%20NLP/natural_language_processing.ipynb) |   | 
 ***
 ### Model selection
 | Number     | Notebooks | Extras |
