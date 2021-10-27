@@ -14,6 +14,7 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | 05 | [Association Rule Learning](#association-rule-learning) | Apriori, Eclat | |
 | 06 | [Reinforcement Learning](#reinforcement-learning) | UCB, Thomson Sampling | |
 | 07 | [NLP](#nlp) | Introduction to nlp | |
+| 08 | [Dimensionality Reduction](#dimensionality-reduction) | PCA, Kernel PCA, LDA | |
 | ## | [Model Selection](#model-selection) | Model selection: regression, classifcation | |
 | ## | [Case Study](#case-study) | Case study | |
 
@@ -103,6 +104,11 @@ This is my repository on learning Machine Learning from scratch, if you want to 
 | Number     | Notebook | Extras |
 | ----------- | ----------- | ----------- |
 | 01 | [Introduction to nlp](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%207%20-%20NLP/Section%2036%20-%20Introduction%20to%20NLP/natural_language_processing.ipynb) |   | 
+***
+### Dimensionality Reduction
+| Number     | Notebook | Extras |
+| ----------- | ----------- | ----------- |
+| 01 | [Principal Component Analysis](https://github.com/BaoLocPham/MachineLearningFromScratch/blob/main/Part%208%20-%20Dimensionality%20Reduction/Section%2043%20-%20PCA/principal_component_analysis.ipynb) | [setosa-PCA example](https://setosa.io/ev/principal-component-analysis/), [StatQuest-PCA](https://youtu.be/FgakZw6K1QQ), [plotly-PCA visualization](https://plotly.com/python/pca-visualization/) | 
 ***
 ### Model selection
 | Number     | Notebooks | Extras |
